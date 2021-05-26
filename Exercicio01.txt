@@ -1,0 +1,9 @@
+No exercicio 01, basicamente:
+
+- Remover uma linha de qualquer arquivo;
+- Adcionar uma linha no mesmo arquivo;
+- Adicionar um novo arquivo (to fazendo este aqui);
+- Fazer om commit e push das alteracoes;
+- Ver as diferencas atraves do GitHub em "Commit".
+
+       Valeu!!
