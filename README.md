@@ -1,6 +1,6 @@
 # Repositorio de teste
 
-![/teste.png](Teste Imagem)
+![Teste Imagem](teste.png)
 
 Este repositorio serve de exemplo para o curso de Git e GitHub.
 
